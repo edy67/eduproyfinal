@@ -1,0 +1,129 @@
+
+/* Estilos Globales */
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: Arial, sans-serif;
+  }
+  
+  a {
+    color: #1e90ff;
+  }
+  
+  a:hover {
+    color: #63a4ff;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #ffffff;
+  }
+  
+  /* Estilos de Header */
+  .navbar-dark {
+    background-color: #1f1f1f !important;
+  }
+  
+  .nav-link {
+    color: #e0e0e0 !important;
+  }
+  
+  .nav-link:hover {
+    color: #63a4ff !important;
+  }
+  
+  /* Estilos de Footer */
+  .footer {
+    background-color: #1f1f1f;
+    color: #e0e0e0;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  /* Estilos de Home */
+  .home {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .home h1 {
+    color: #e0e0e0;
+  }
+  
+  .home p {
+    color: #b0b0b0;
+  }
+  
+  /* Estilos de ProductList */
+  .product-list {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .product-list h1 {
+    color: #e0e0e0;
+  }
+  
+  .product-list p {
+    color: #b0b0b0;
+  }
+  
+  /* Estilos de ProductDetail */
+  .product-detail {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .product-detail h1 {
+    color: #e0e0e0;
+  }
+  
+  .product-detail p {
+    color: #b0b0b0;
+  }
+  
+  /* Estilos de Cart */
+  .cart {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .cart h1 {
+    color: #e0e0e0;
+  }
+  
+  .cart p {
+    color: #b0b0b0;
+  }
+  
+  /* Estilos de Checkout */
+  .checkout {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .checkout h1 {
+    color: #e0e0e0;
+  }
+  
+  .checkout p {
+    color: #b0b0b0;
+  }
+  
+  /* Estilos de UserAccount */
+  .user-account {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .user-account h1 {
+    color: #e0e0e0;
+  }
+  
+  .user-account p {
+    color: #b0b0b0;
+  }
+  
